@@ -1,0 +1,7 @@
+
+c
+java:S2184/"ACast one of the operands of this division operation to a "float".(ÕÎˆÈûÿÿÿÿ8ÞÁ¨ˆ¶1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼Ï¢¡8ÑÅ¥ˆ¶1
+L	java:S1063"+Replace this use of System.out by a logger.(É¥Ÿ¥þÿÿÿÿ8åÅ¥ˆ¶1
+e
+java:S11827"HUse super.clone() to create and seed the cloned instance to be returned.(¯áÑë8èÅ¥ˆ¶1
