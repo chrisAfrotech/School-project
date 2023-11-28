@@ -1,0 +1,14 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ΘΌΩόÿÿÿÿ8υ›άζΐ1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µτΜ³8υ›άζΐ1
+r	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ν›ύÿÿÿÿ8υ›άζΐ1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ΛΥΙ‰8χ›άζΐ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶έ§°ϊÿÿÿÿ8ψ›άζΐ1
+h
+java:S1854	"FRemove this useless assignment to local variable "MonteurPizzaReinne".(Ν›ύÿÿÿÿ8‚άζΐ1
+L	java:S106"+Replace this use of System.out by a logger.(Άψƒ’ώÿÿÿÿ8„άζΐ1
+Y
+java:S1481	"7Remove this unused "MonteurPizzaReinne" local variable.(Ν›ύÿÿÿÿ8άζΐ1
+L	java:S106"+Replace this use of System.out by a logger.(Ο¥τόÿÿÿÿ8άζΐ1
+L	java:S106"+Replace this use of System.out by a logger.(Ο¥τόÿÿÿÿ8‘άζΐ1
+L	java:S106"+Replace this use of System.out by a logger.(Ο¥τόÿÿÿÿ8’άζΐ1
